@@ -1,0 +1,66 @@
+2026-05-05 14:13:19,452 - WARNING - pysme.sme - The wavelength range is overriden by the existing wavelength grid
+2026-05-05 14:13:21,189 - INFO - pysme.linelist.vald - Loading VALD file linelist.lin
+2026-05-05 14:13:25,250 - INFO - pysme.solve - Fitting Spectrum with Parameters: abund Mg,abund Fe
+2026-05-05 14:13:25,255 - INFO - pysme.solve - Synthesizing residual with values Abund mg=4.9300, Abund fe=4.8500
+2026-05-05 14:13:25,470 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=4.9400, Abund fe=4.8500
+2026-05-05 14:13:25,645 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=4.9300, Abund fe=4.8600
+2026-05-05 14:13:25,819 - INFO - pysme.util -    Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality   
+2026-05-05 14:13:25,819 - INFO - pysme.util -        0              1         1.6974e+00                                    1.85e-01    
+2026-05-05 14:13:25,819 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.4074, Abund fe=9.7800
+2026-05-05 14:13:25,893 - WARNING - pysme.synthesize - WARNING: EOS-computed electron density differs from the model by 425% in layer 1
+2026-05-05 14:13:26,153 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=7.4174, Abund fe=9.7800
+2026-05-05 14:13:26,228 - WARNING - pysme.synthesize - WARNING: EOS-computed electron density differs from the model by 425% in layer 1
+2026-05-05 14:13:26,478 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=7.4074, Abund fe=9.7900
+2026-05-05 14:13:26,553 - WARNING - pysme.synthesize - WARNING: EOS-computed electron density differs from the model by 436% in layer 1
+2026-05-05 14:13:26,802 - INFO - pysme.util -        1              2         1.3720e+00      3.25e-01       5.52e+00       1.51e+00    
+2026-05-05 14:13:26,802 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.8560, Abund fe=9.3225
+2026-05-05 14:13:26,872 - WARNING - pysme.synthesize - WARNING: EOS-computed electron density differs from the model by 123% in layer 1
+2026-05-05 14:13:27,131 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=7.8660, Abund fe=9.3225
+2026-05-05 14:13:27,201 - WARNING - pysme.synthesize - WARNING: EOS-computed electron density differs from the model by 123% in layer 1
+2026-05-05 14:13:27,448 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=7.8560, Abund fe=9.3325
+2026-05-05 14:13:27,519 - WARNING - pysme.synthesize - WARNING: EOS-computed electron density differs from the model by 127% in layer 1
+2026-05-05 14:13:27,767 - INFO - pysme.util -        2              3         7.2055e-01      6.51e-01       6.41e-01       9.36e-01    
+2026-05-05 14:13:27,767 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0075, Abund fe=8.7825
+2026-05-05 14:13:28,089 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0175, Abund fe=8.7825
+2026-05-05 14:13:28,401 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0075, Abund fe=8.7925
+2026-05-05 14:13:28,714 - INFO - pysme.util -        3              4         4.1783e-01      3.03e-01       5.61e-01       3.28e-01    
+2026-05-05 14:13:28,714 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0487, Abund fe=8.1463
+2026-05-05 14:13:29,035 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0587, Abund fe=8.1463
+2026-05-05 14:13:29,345 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0487, Abund fe=8.1563
+2026-05-05 14:13:29,656 - INFO - pysme.util -        4              5         2.7572e-01      1.42e-01       6.38e-01       1.46e-01    
+2026-05-05 14:13:29,657 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0213, Abund fe=7.6923
+2026-05-05 14:13:29,976 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0313, Abund fe=7.6923
+2026-05-05 14:13:30,286 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0213, Abund fe=7.7023
+2026-05-05 14:13:30,598 - INFO - pysme.util -        5              6         2.2545e-01      5.03e-02       4.55e-01       3.35e-02    
+2026-05-05 14:13:30,598 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0041, Abund fe=7.6214
+2026-05-05 14:13:30,917 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0141, Abund fe=7.6214
+2026-05-05 14:13:31,227 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0041, Abund fe=7.6314
+2026-05-05 14:13:31,539 - INFO - pysme.util -        6              7         2.2288e-01      2.57e-03       7.29e-02       5.54e-03    
+2026-05-05 14:13:31,539 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9996, Abund fe=7.6105
+2026-05-05 14:13:31,858 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0096, Abund fe=7.6105
+2026-05-05 14:13:32,170 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=7.9996, Abund fe=7.6205
+2026-05-05 14:13:32,482 - INFO - pysme.util -        7              8         2.2269e-01      1.92e-04       1.18e-02       1.45e-03    
+2026-05-05 14:13:32,482 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0015, Abund fe=7.6127
+2026-05-05 14:13:32,801 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0002, Abund fe=7.6110
+2026-05-05 14:13:33,120 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0102, Abund fe=7.6110
+2026-05-05 14:13:33,431 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0002, Abund fe=7.6210
+2026-05-05 14:13:33,743 - INFO - pysme.util -        8             10         2.2268e-01      8.84e-06       7.32e-04       1.11e-03    
+2026-05-05 14:13:33,743 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9991, Abund fe=7.6098
+2026-05-05 14:13:34,062 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=8.0091, Abund fe=7.6098
+2026-05-05 14:13:34,373 - INFO - pysme.solve - Synthesizing jacobian with values Abund mg=7.9991, Abund fe=7.6198
+2026-05-05 14:13:34,684 - INFO - pysme.util -        9             11         2.2267e-01      4.27e-06       1.54e-03       1.77e-03    
+2026-05-05 14:13:34,684 - INFO - pysme.solve - Synthesizing residual with values Abund mg=8.0014, Abund fe=7.6117
+2026-05-05 14:13:35,003 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9997, Abund fe=7.6103
+2026-05-05 14:13:35,321 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9993, Abund fe=7.6099
+2026-05-05 14:13:35,640 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9992, Abund fe=7.6099
+2026-05-05 14:13:35,960 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9991, Abund fe=7.6098
+2026-05-05 14:13:36,279 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9991, Abund fe=7.6098
+2026-05-05 14:13:36,598 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9991, Abund fe=7.6098
+2026-05-05 14:13:36,918 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9991, Abund fe=7.6098
+2026-05-05 14:13:37,237 - INFO - pysme.solve - Synthesizing residual with values Abund mg=7.9991, Abund fe=7.6098
+2026-05-05 14:13:37,556 - INFO - pysme.util -       10             20         2.2267e-01      0.00e+00       0.00e+00       1.77e-03    
+2026-05-05 14:13:37,557 - INFO - pysme.util - `xtol` termination condition is satisfied.
+2026-05-05 14:13:37,557 - INFO - pysme.util - Function evaluations 20, initial cost 1.6974e+00, final cost 2.2267e-01, first-order optimality 1.77e-03.
+2026-05-05 14:13:37,557 - INFO - pysme.solve - Final Abund mg         7.9991 +-       0.0294
+2026-05-05 14:13:37,557 - INFO - pysme.solve - Final Abund fe         7.6098 +-       0.0355
+2026-05-05 14:13:37,558 - INFO - pysme.solve - Final vrad       [-1.3415] +- [[0.0000, 0.0000]]
